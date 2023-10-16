@@ -8,7 +8,7 @@ body {
 	background-image: url("assets/background2.png");
 	margin: 0;
 	font-family: 'Arial';
-	max-width: 100%;
+	max-width: 250px;
 }
 
 /* STYLE NAV BAR */
@@ -166,7 +166,7 @@ img {
 }
 
 .main-content img {
-	max-width: 100%;
+	max-width:350px;
 }
 
 .credit {
